@@ -1,7 +1,6 @@
+#Bean Nguyen
 # CS303 Assignment 3
-
 ## How to Compile & Run (Visual Studio)
-
 1. Create a new C++ Console Project.
 2. Add the following files:
    - Queue.h
